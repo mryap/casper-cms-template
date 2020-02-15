@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Test & Optimize Blog"
 theme = "hugo-theme-casper"
-disqusShortname = "getoptimise"
+disqusShortname = "https-happy-ride-599e08-netlify-com"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
