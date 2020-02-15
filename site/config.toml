@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Casper Theme"
+title = "Test & Optimize Blog"
 theme = "hugo-theme-casper"
 disqusShortname = "getoptimise"
 # Enable Google Analytics by inserting your tracking code
