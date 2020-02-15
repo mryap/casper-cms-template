@@ -7,6 +7,7 @@ title = "about"
 
 ## Gain validated business insight and improves the customer experience
 
+
 ### Web Analytics Conversion Optimiztion
 
 CRO are essentially putting data in action. Gather data (qualitative and quantitative) from various sources, validate them against hypothesis, implementing a design change based on the hypothesis and learn from the outcome.
