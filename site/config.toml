@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Casper Theme"
 theme = "hugo-theme-casper"
-disqusShortname = "spf13"
+disqusShortname = "getoptimise"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
@@ -14,8 +14,8 @@ canonifyurls = true
   cover = "images/cover.jpg"
   author = "YAP SHIAO SHYAN"
   authorlocation = "Dublin, Ireland"
-  authorwebsite = "http://vjeantet.fr"
-  bio= "From Singapore, now in Ireland. Help online business turn clicks into profits"
+  authorwebsite = "https://www.testandoptimize.com"
+  bio= "Based in Ireland, I help online business turn clicks into profits"
   logo = "images/logo.png"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
