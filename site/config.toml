@@ -12,16 +12,16 @@ canonifyurls = true
 [params]
   description = "this is my description"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
+  author = "YAP SHIAO SHYAN"
+  authorlocation = "Dublin, Ireland"
   authorwebsite = "http://vjeantet.fr"
-  bio= "my bio"
+  bio= "From Singapore, now in Ireland. Help online business turn clicks into profits"
   logo = "images/logo.png"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "vjeantet"
-  twitterName = "vjeantet"
+  #githubName = "vjeantet"
+  twitterName = "testandoptimize"
   # facebookName = ""
   # linkedinName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
